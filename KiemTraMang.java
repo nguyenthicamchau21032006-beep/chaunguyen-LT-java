@@ -1,7 +1,7 @@
-package bai1;
+
 public class KiemTraMang {
 
-    // Hàm kiểm tra số nguyên tố
+    
     public static boolean laSoNguyenTo(int n) {
         if (n < 2) return false;
         for (int i = 2; i <= Math.sqrt(n); i++) {
