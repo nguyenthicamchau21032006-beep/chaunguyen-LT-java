@@ -1,4 +1,4 @@
-package bai1;
+
 
 public class XuatLuong {
     public static void main(String[] args) {
